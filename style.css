@@ -1,0 +1,32 @@
+html {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+}
+#mainbox {
+  width: 50%;
+  margin-left: 25%;
+  font-family: "Grechen Fuemen", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #de3163;
+  text-align: center;
+}
+img {
+  width: 100%;
+  border: 5px solid #de3163;
+  border-radius: 10px;
+}
+h2 {
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+p {
+    font-size: 1rem;
+}
